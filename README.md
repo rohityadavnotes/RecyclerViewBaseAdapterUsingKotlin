@@ -1,0 +1,3 @@
+# RecyclerViewBaseAdapterUsingKotlin
+
+base adapter
